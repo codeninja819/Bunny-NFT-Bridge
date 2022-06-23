@@ -1,0 +1,10 @@
+.MuiPaper-root {
+    border-radius: 12px !important;
+    background: linear-gradient(135deg, rgba(0, 0, 0) 0%, rgb(50, 33, 33) 50%, rgba(0, 0, 0) 75%);
+}
+
+@media screen and (max-width : 450px) {
+    .css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+        margin: 20px !important;
+    }
+}
